@@ -7,3 +7,10 @@
 PWM、ADC等外设可以并发，相较与普通MCU更方便（普通MCU同一组ADC通常是串行触发的）。
 
 DSP在做逆变器等设备时候，控制可以更灵活。相应的，DSP成本也更高。
+
+## ti编译器（CCS）下载
+
+https://www.ti.com/tool/CCSTUDIO#downloads  
+
+## ti工程构建和编译相关教程
+https://software-dl.ti.com/ccs/esd/documents/users_guide_zh/index_project-management.html
